@@ -1,3 +1,7 @@
+## 截圖
+
+![screenshot](screenshot.png)
+
 # Break Clock
 
 一個可愛的桌面久坐提醒小工具，偵測你持續使用電腦超過45分鐘就提醒你站起來伸展。
