@@ -1,0 +1,14 @@
+.DS_Store
+Icon*
+app_backup.py
+piggy.py
+setup.py
+CHANGELOG.md
+uuu.md
+uuu.js
+background.png
+icon1.png
+icon2.png
+build/
+dist/
+screenshot.png
