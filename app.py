@@ -147,7 +147,7 @@ class BreakClock:
         import subprocess
         subprocess.call([
             'osascript', '-e',
-            'display dialog "站起來！\\n\\n你已持續使用電腦超過60分鐘。\\n做個胸椎伸展再回來 ✿" '
+            'display dialog "站起來！\\n\\n你已持續使用電腦超過45分鐘。\\n做個胸椎伸展再回來 ✿" '
             'with title "Break Clock" buttons {"我站起來了"} '
             'default button 1 with icon caution'
         ])
